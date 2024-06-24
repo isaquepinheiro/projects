@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{95DBC98B-0945-473C-B980-CD9BC0C6F5C6}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="DLL_Class.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="PExecutable.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="DLL_Class">
+        <MSBuild Projects="DLL_Class.dproj"/>
+    </Target>
+    <Target Name="DLL_Class:Clean">
+        <MSBuild Projects="DLL_Class.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DLL_Class:Make">
+        <MSBuild Projects="DLL_Class.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PExecutable">
+        <MSBuild Projects="PExecutable.dproj"/>
+    </Target>
+    <Target Name="PExecutable:Clean">
+        <MSBuild Projects="PExecutable.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PExecutable:Make">
+        <MSBuild Projects="PExecutable.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="DLL_Class;PExecutable"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="DLL_Class:Clean;PExecutable:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="DLL_Class:Make;PExecutable:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

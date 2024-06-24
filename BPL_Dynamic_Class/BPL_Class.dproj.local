@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/27 10:15:44.000.315,=rtl.dcp</Transaction>
+    <Transaction>2024/04/27 10:16:00.000.427,D:\PROJETOS-Linx\BPL_Dynamic_Class\BPL_Class.dproj=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2024/04/27 10:16:20.000.408,=D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 10:16:28.000.350,D:\PROJETOS-Linx\BPL_Dynamic_Class\UClass.pas=D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 10:29:02.000.230,=D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 10:29:44.000.172,D:\PROJETOS-Linx\BPL_Dynamic_Class\UInterface.pas=D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 14:18:09.000.105,=D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 14:18:19.000.932,D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas=D:\PROJETOS-Linx\BPL_Dynamic_Class\UInitialization.pas</Transaction>
+  </Transactions>
+</BorlandProject>

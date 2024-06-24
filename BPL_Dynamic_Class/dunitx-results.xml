@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="D:\PROJETOS-Linx\BPL_Dynamic_Class\PTest.exe" total="2" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2024-04-30" time="0.005">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="PTest.exe" executed="true" result="Success" success="True" time="0.005" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="UTest" executed="true" result="Success" success="True" time="0.004" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TBPLDynamic" executed="True" result="Success" success="True" time="0.004" >
+                <results>
+                  <test-case name="Somar.Somar" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Subtrair.Subtrair" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>

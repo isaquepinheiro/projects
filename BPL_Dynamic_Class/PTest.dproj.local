@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/30 08:08:41.000.261,=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/30 08:09:19.000.839,D:\PROJETOS-Linx\BPL_Dynamic_Class\UTest.pas=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/30 08:09:25.000.162,D:\PROJETOS-Linx\BPL_Dynamic_Class\PTest.dproj=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/04/30 08:17:23.000.722,=D:\PROJETOS-Linx\BPL_Dynamic_Class\UInterface.pas</Transaction>
+    <Transaction>2024/04/30 08:17:23.000.667,=D:\PROJETOS-Linx\BPL_Dynamic_Class\UDLLLoader.pas</Transaction>
+    <Transaction>2024/04/30 08:24:24.000.500,D:\PROJETOS-Linx\BPL_Dynamic_Class\UDLLLoader.pas=</Transaction>
+    <Transaction>2024/04/30 08:24:36.000.399,=D:\PROJETOS-Linx\BPL_Dynamic_Class\UBPLLoader.pas</Transaction>
+  </Transactions>
+</BorlandProject>

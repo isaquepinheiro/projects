@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/21 13:17:40.000.571,=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/21 14:06:16.000.636,=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/13 19:41:19.000.555,=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/25 17:59:43.000.833,=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 10:33:09.000.799,=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 10:34:35.000.448,C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\UExecutable.dfm</Transaction>
+    <Transaction>2024/04/27 10:34:35.000.448,C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\UExecutable.pas</Transaction>
+    <Transaction>2024/04/27 10:35:03.000.630,C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\UExecutable.dfm=D:\PROJETOS-Linx\BPL_Dynamic_Class\UExecutable.dfm</Transaction>
+    <Transaction>2024/04/27 10:35:03.000.630,C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\UExecutable.pas=D:\PROJETOS-Linx\BPL_Dynamic_Class\UExecutable.pas</Transaction>
+    <Transaction>2024/04/27 10:35:15.000.008,C:\Users\User\OneDrive\Pictures\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\PROJETOS-Linx\BPL_Dynamic_Class\PExecutable.dproj</Transaction>
+    <Transaction>2024/04/27 10:35:49.000.689,=D:\PROJETOS-Linx\BPL_Dynamic_Class\UInterface.pas</Transaction>
+    <Transaction>2024/04/27 10:36:08.000.456,=D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas</Transaction>
+    <Transaction>2024/04/27 10:39:17.000.086,D:\PROJETOS-Linx\BPL_Dynamic_Class\Unit1.pas=D:\PROJETOS-Linx\BPL_Dynamic_Class\UBPLLoader.pas</Transaction>
+    <Transaction>2024/04/27 11:35:22.000.644,D:\PROJETOS-Linx\BPL_Dynamic_Class\UDLLLoader.pas=D:\PROJETOS-Linx\BPL_Dynamic_Class\UBPLLoader.pas</Transaction>
+    <Transaction>2024/04/27 11:36:00.000.295,=D:\PROJETOS-Linx\BPL_Dynamic_Class\UBPLLoader.pas</Transaction>
+    <Transaction>2024/04/27 11:36:12.000.111,D:\PROJETOS-Linx\BPL_Dynamic_Class\UDLLLoader.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
